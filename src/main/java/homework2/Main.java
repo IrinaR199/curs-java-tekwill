@@ -10,6 +10,9 @@ public class Main {
 
         //Weekdays.run();
 
-        StringToPrimitive.run();
+        //StringToPrimitive.run();
+
+        Circle circle = new Circle(5.0);
+        circle.calculateArea();
     }
 }
