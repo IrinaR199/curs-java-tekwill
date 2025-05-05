@@ -13,5 +13,6 @@ public class TaxCalculator {
 
         total = price * quantity * tax;
         System.out.println("Total cost with tax is: " + total);
+
     }
 }

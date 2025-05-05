@@ -1,6 +1,8 @@
 package homework1.Variables;
 
-public class Variables {
+public class Variables
+
+{
     public static void main(String[] args) {
 
         long currentWorldPopulation = 7811080815L;
