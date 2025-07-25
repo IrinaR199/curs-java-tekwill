@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ExamProject/ExamProject.iml" filepath="$PROJECT_DIR$/ExamProject/ExamProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/curs-java-tekwill.iml" filepath="$PROJECT_DIR$/.idea/curs-java-tekwill.iml" />
+    </modules>
+  </component>
+</project>
